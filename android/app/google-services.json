@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144042719497",
+    "project_id": "ctselabassessment",
+    "storage_bucket": "ctselabassessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144042719497:android:a03b7705b28c4a58effbd8",
+        "android_client_info": {
+          "package_name": "com.example.lab_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144042719497-5c1h89tdu0tqsr3goot4fr1t7l900s87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqjh8-Eo8JLTmyhSeGy_Nh6dMBGtt3rQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144042719497-5c1h89tdu0tqsr3goot4fr1t7l900s87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
